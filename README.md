@@ -18,3 +18,5 @@ Airbnb has removed between 7,000 and 13,500 units of housing from New York Cityâ
 
 NYC listings are concentrated in Midtown and Downtown Manhattan, but are growing rapidly in Brooklyn, and taking up a larger and larger portion of the overall Airbnb market over time. 
 
+![Screen Shot 2019-03-29 at 2 01 48 PM](https://user-images.githubusercontent.com/47506446/55253509-e759bc80-522b-11e9-8c3c-e624a8cd703e.png)
+
