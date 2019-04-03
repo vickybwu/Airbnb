@@ -12,7 +12,7 @@ That’s why we are here to help. We want to study how you can improve your busi
 We extracted a random sample from June, 2018 Airbnb NYC listings and performed several statistical tests to find out the deciding factors of overall ratings, occupancy rate, price and overall revenues. Now it’s time to reveal the secrets of running a six-figure business on Airbnb...
 
 ### Research Findings
-The occurrence of the first negative review affects negatively the probability to have a transaction; while the following others have positive effects.
+The occurrance of the first negative review of a listing will bring negative effects on the listing's future transaction; 
 
 There are five lodging aspects that customers most care about: communication, experience, location, product/service, and value. Customers have different sentiments toward different lodging aspects, which lead to different aspect evaluation weights and aspect ratings when they judge their overall stays with the accommodations offered on sharing accommodation platforms.
 
